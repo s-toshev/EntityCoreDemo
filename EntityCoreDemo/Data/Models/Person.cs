@@ -1,6 +1,6 @@
 ﻿
 
-namespace EntityCoreDemo.Data.Models
+namespace PersonRegister.Data.Models
 {
     public class Person
     {

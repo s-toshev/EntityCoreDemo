@@ -1,5 +1,5 @@
 ﻿
-using EntityCoreDemo.Data.Models;
+using PersonRegister.Data.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace EntityCoreDemo.Data
